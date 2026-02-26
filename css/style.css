@@ -1,0 +1,49 @@
+body {
+    display: block;
+}
+
+#alignandbgcolor #example-1 {
+    text-align: center;
+}
+
+#alignandbgcolor #right {
+    text-align: right;
+    background-color: beige;
+}
+
+#alignandbgcolor #default {
+    text-align: center;
+}
+
+#alignandbgcolor #left {
+    text-align: left;
+    background-color: red;
+    color: whitesmoke;
+}
+
+#aligntxtnpad #article-name {
+    text-align: center;
+    padding-inline: inherit;
+}
+
+#aligntxtnpad #paragraph-1 {
+    text-align: left;
+    padding-inline: inherit;
+
+}
+
+#aligntxtnpad #paragraph-2 {
+    text-align: left;
+    padding-inline: inherit;
+}
+
+#aligntxtnpad #paragraph-3 {
+    text-align: left;
+    padding-inline: inherit;
+}
+
+#blue-border {
+    border: 10px solid;
+    border-color: blue;
+    width: 400px;
+}

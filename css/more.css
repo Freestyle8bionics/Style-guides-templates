@@ -1,0 +1,43 @@
+#centerHeading {
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5em;
+    height: 120px;
+    margin-top: 3%;
+    text-align: center;
+}
+
+#rightHeading {
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5em;
+    height: 120px;
+    text-align: right;
+}
+
+#leftHeading {
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5em;
+    height: 120px;
+    text-align: left;
+}
+
+#leftHeading h3 {
+    border-style: dotted;
+    border-color: black;
+    border-width: 0.5em;
+    padding: 0.3em;
+    margin-bottom: 0em;
+}
+
+#leftHeading p {
+    border-style: dashed;
+    border-width: 0.2em;
+    border-color: green;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24em;
+    margin-top: 0%;
+}
